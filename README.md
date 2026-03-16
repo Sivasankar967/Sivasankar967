@@ -12,7 +12,7 @@
   </a>
   &nbsp;
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-    <img src="https://www.linkedin.com/in/siva-sankar-297192208/" />
+    <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=58d5ff" />
   </a>
   &nbsp;
   <a href="https://YOUR_PORTFOLIO.com" target="_blank">
@@ -119,11 +119,11 @@ const sivaSankar = {
     <img src="https://img.shields.io/badge/📧_Email_Me-0f2027?style=for-the-badge&logoColor=58d5ff" />
   </a>
   &nbsp;
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/siva-sankar-297192208/">
     <img src="https://img.shields.io/badge/💼_LinkedIn-0f2027?style=for-the-badge&logoColor=58d5ff" />
   </a>
   &nbsp;
-  <a href="https://YOUR_PORTFOLIO.com">
+  <a href="https://sivasankar-portfolio-sigma.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-0f2027?style=for-the-badge&logoColor=58d5ff" />
   </a>
 </div>
