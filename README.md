@@ -87,13 +87,13 @@ const sivaSankar = {
       <h3>🤖 Nova AI Chat</h3>
       <p>Full-stack AI chat app with <strong>real-time word-by-word streaming</strong> powered by Google Gemini 2.0 Flash via Vercel AI SDK. Secure Express backend keeps API keys server-side. Premium glassmorphism dark UI with animated orbs.</p>
       <p><strong>Stack:</strong> React 19 · Vite · Node.js · Express · Vercel AI SDK · CSS Animations</p>
-      <a href="#">🔗 Live Demo</a>
+      <a href="nova-ai-chat.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%">
       <h3>💬 Realtime Chat App</h3>
       <p>Full-stack real-time chat with <strong>JWT authentication</strong>, protected routes, instant messaging via Socket.IO, and group chat support. Glassmorphism dark UI with smooth animations.</p>
       <p><strong>Stack:</strong> React · Vite · Axios · Socket.IO · JWT</p>
-      <a href="#">🔗 Live Demo</a>
+      <a href="https://realtime-chat-application-beta-snowy.vercel.app/login">🔗 Live Demo</a>
     </td>
   </tr>
   <tr>
@@ -101,7 +101,7 @@ const sivaSankar = {
       <h3>🔗 DAG Pipeline Designer</h3>
       <p>Visual <strong>drag-and-drop workflow builder</strong> with node and edge connections for designing data pipelines and task graphs.</p>
       <p><strong>Stack:</strong> React Flow · Tailwind CSS · React</p>
-      <a href="#">🔗 Live Demo</a>
+      <a href="dag-pipeline-designer.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%">
       <h3>💳 Stripe BNPL Payment System</h3>
@@ -114,13 +114,13 @@ const sivaSankar = {
       <h3>🔍 GitHub User Finder</h3>
       <p>GitHub profile search using the <strong>GitHub REST API</strong> — displays repos, followers, and profile stats.</p>
       <p><strong>Stack:</strong> React · GitHub API · CSS</p>
-      <a href="#">🔗 Live Demo</a>
+      <a href="github-user-finder-h4dn.vercel.app/">🔗 Live Demo</a>
     </td>
     <td width="50%">
       <h3>💰 Crypto UI Dashboard</h3>
       <p>Cryptocurrency listing dashboard with <strong>search and pagination</strong>, built with React and Tailwind CSS.</p>
       <p><strong>Stack:</strong> React · Tailwind CSS · REST API</p>
-      <a href="#">🔗 Live Demo</a>
+      <a href="ironic-smart-block-chain.vercel.app">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
