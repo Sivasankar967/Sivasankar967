@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=58d5ff" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sivasankar966&style=for-the-badge&color=203a43&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Sivasankar967&style=for-the-badge&color=203a43&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -148,15 +148,15 @@ const sivaSankar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivasankar966&show_icons=true&theme=dark&bg_color=0f2027&title_color=58d5ff&icon_color=58d5ff&text_color=a0d8ef&border_color=203a43" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivasankar967&show_icons=true&theme=dark&bg_color=0f2027&title_color=58d5ff&icon_color=58d5ff&text_color=a0d8ef&border_color=203a43" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankar966&layout=compact&theme=dark&bg_color=0f2027&title_color=58d5ff&text_color=a0d8ef&border_color=203a43" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankar967&layout=compact&theme=dark&bg_color=0f2027&title_color=58d5ff&text_color=a0d8ef&border_color=203a43" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasankar966&theme=dark&background=0f2027&ring=58d5ff&fire=58d5ff&currStreakLabel=58d5ff&sideLabels=a0d8ef&dates=a0d8ef&border=203a43" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasankar967&theme=dark&background=0f2027&ring=58d5ff&fire=58d5ff&currStreakLabel=58d5ff&sideLabels=a0d8ef&dates=a0d8ef&border=203a43" />
 </div>
 
 ---
