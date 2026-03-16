@@ -32,7 +32,7 @@
 const sivaSankar = {
   role              : "Frontend React Developer",
   experience        : "2.9+ Years",
-  location          : "Madurai, Tamil Nadu 🇮🇳",
+  location          : "Bengaluru , karnataka",
   specializations   : ["React.js", "Redux", "Stripe BNPL", "REST APIs", "AI Integration"],
   recentlyBuilt     : ["Nova AI Chat (Gemini 2.0 Flash)", "DAG Pipeline Designer", "Realtime Chat App"],
   currentlyLearning : ["TypeScript", "Jest", "React Testing Library"],
