@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=58d5ff" />
   </a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=Sivasankar967&style=for-the-badge&color=203a43&label=PROFILE+VIEWS" />
+  <img src="https://komarev.com/ghpvc/?username=Sivasankar966&style=for-the-badge&color=203a43&label=PROFILE+VIEWS" />
 </div>
 
 <br/>
@@ -87,7 +87,7 @@ const sivaSankar = {
       <h3>🤖 Nova AI Chat</h3>
       <p>Full-stack AI chat app with <strong>real-time word-by-word streaming</strong> powered by Google Gemini 2.0 Flash via Vercel AI SDK. Secure Express backend keeps API keys server-side. Premium glassmorphism dark UI with animated orbs.</p>
       <p><strong>Stack:</strong> React 19 · Vite · Node.js · Express · Vercel AI SDK · CSS Animations</p>
-      <a href="nova-ai-chat.vercel.app">🔗 Live Demo</a>
+      <a href="https://nova-ai-chat.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%">
       <h3>💬 Realtime Chat App</h3>
@@ -101,7 +101,7 @@ const sivaSankar = {
       <h3>🔗 DAG Pipeline Designer</h3>
       <p>Visual <strong>drag-and-drop workflow builder</strong> with node and edge connections for designing data pipelines and task graphs.</p>
       <p><strong>Stack:</strong> React Flow · Tailwind CSS · React</p>
-      <a href="dag-pipeline-designer.vercel.app">🔗 Live Demo</a>
+      <a href="https://dag-pipeline-designer.vercel.app">🔗 Live Demo</a>
     </td>
     <td width="50%">
       <h3>💳 Stripe BNPL Payment System</h3>
@@ -114,13 +114,13 @@ const sivaSankar = {
       <h3>🔍 GitHub User Finder</h3>
       <p>GitHub profile search using the <strong>GitHub REST API</strong> — displays repos, followers, and profile stats.</p>
       <p><strong>Stack:</strong> React · GitHub API · CSS</p>
-      <a href="github-user-finder-h4dn.vercel.app/">🔗 Live Demo</a>
+      <a href="https://github-user-finder-h4dn.vercel.app/">🔗 Live Demo</a>
     </td>
     <td width="50%">
       <h3>💰 Crypto UI Dashboard</h3>
       <p>Cryptocurrency listing dashboard with <strong>search and pagination</strong>, built with React and Tailwind CSS.</p>
       <p><strong>Stack:</strong> React · Tailwind CSS · REST API</p>
-      <a href="ironic-smart-block-chain.vercel.app">🔗 Live Demo</a>
+      <a href="https://ironic-smart-block-chain.vercel.app">🔗 Live Demo</a>
     </td>
   </tr>
 </table>
@@ -148,15 +148,15 @@ const sivaSankar = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sivasankar967&show_icons=true&theme=dark&bg_color=0f2027&title_color=58d5ff&icon_color=58d5ff&text_color=a0d8ef&border_color=203a43" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sivasankar966&show_icons=true&theme=dark&bg_color=0f2027&title_color=58d5ff&icon_color=58d5ff&text_color=a0d8ef&border_color=203a43" height="165" />
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankar967&layout=compact&theme=dark&bg_color=0f2027&title_color=58d5ff&text_color=a0d8ef&border_color=203a43" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sivasankar966&layout=compact&theme=dark&bg_color=0f2027&title_color=58d5ff&text_color=a0d8ef&border_color=203a43" height="165" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasankar967&theme=dark&background=0f2027&ring=58d5ff&fire=58d5ff&currStreakLabel=58d5ff&sideLabels=a0d8ef&dates=a0d8ef&border=203a43" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sivasankar966&theme=dark&background=0f2027&ring=58d5ff&fire=58d5ff&currStreakLabel=58d5ff&sideLabels=a0d8ef&dates=a0d8ef&border=203a43" />
 </div>
 
 ---
