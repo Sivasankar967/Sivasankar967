@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0f2027?style=for-the-badge&logo=linkedin&logoColor=58d5ff" />
   </a>
   &nbsp;
-  <a href="https://sivasankar-portfolio-sigma.vercel.app/" target="_blank">
+  <a href="https://personal-portfolio-three-tau-97.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0f2027?style=for-the-badge&logo=vercel&logoColor=58d5ff" />
   </a>
   &nbsp;
@@ -172,7 +172,7 @@ const sivaSankar = {
     <img src="https://img.shields.io/badge/💼_LinkedIn-0f2027?style=for-the-badge" />
   </a>
   &nbsp;
-  <a href="https://sivasankar-portfolio-sigma.vercel.app/">
+  <a href="https://personal-portfolio-three-tau-97.vercel.app/">
     <img src="https://img.shields.io/badge/🌐_Portfolio-0f2027?style=for-the-badge" />
   </a>
 </div>
