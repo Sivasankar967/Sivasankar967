@@ -98,10 +98,10 @@ const sivaSankar = {
   </tr>
   <tr>
     <td width="50%">
-      <h3>🔗 DAG Pipeline Designer</h3>
+      <h3>🔗 Node_Flow_AI_Builder</h3>
       <p>Visual <strong>drag-and-drop workflow builder</strong> with node and edge connections for designing data pipelines and task graphs.</p>
       <p><strong>Stack:</strong> React Flow · Tailwind CSS · React</p>
-      <a href="https://dag-pipeline-designer.vercel.app">🔗 Live Demo</a>
+      <a href=" https://node-flow-ai-builder.vercel.app/">🔗 Live Demo</a>
     </td>
     <td width="50%">
       <h3>💳 Stripe BNPL Payment System</h3>
